@@ -1,0 +1,24 @@
+.wheeloflife-container .wheeloflife-wrapper {
+    margin: 0;
+    text-align: unset;
+}
+
+.wheeloflife-btn.is-primary {
+    font-family: var(--btn-font-family) !important;
+    font-size: var(--btn-font-size) !important;
+    letter-spacing: var(--btn-font-spacing) !important;
+    line-height: var(--btn-font-height) !important;
+    font-weight: var(--btn-font-weight) !important;
+    text-transform: var(--btn-font-transform) !important;
+    padding: var(--btn-padding-top) var(--btn-padding-right) var(--btn-padding-bottom) var(--btn-padding-left) !important;
+    border-radius: var(--btn-roundness-top) var(--btn-roundness-right) var(--btn-roundness-bottom) var(--btn-roundness-left) !important;
+    color: var(--btn-text-initial-color) !important;
+    background: var(--btn-bg-initial-color) !important;
+    border: 1px solid var(--btn-border-initial-color) !important;
+}
+
+.wheeloflife-btn.is-primary:hover {
+    color: var(--btn-text-hover-color) !important;
+    border-color: var(--btn-border-hover-color) !important;
+    background: var(--btn-bg-hover-color) !important;
+}

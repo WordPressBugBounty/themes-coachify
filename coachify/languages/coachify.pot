@@ -1,0 +1,2508 @@
+# <!=Copyright (C) 2024 Coachify
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Coachify 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/coachify\n"
+"POT-Creation-Date: 2024-10-08 03:18:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:29 build/coachify_1.1.4/404.php:29
+msgid "404 ERROR"
+msgstr ""
+
+#: 404.php:31 build/coachify_1.1.4/404.php:31
+msgid "Page Not Found!"
+msgstr ""
+
+#: 404.php:33 build/coachify_1.1.4/404.php:33
+msgid ""
+"The page you are looking for may have been moved, deleted, or possibly "
+"never existed. Go back to home and explore again."
+msgstr ""
+
+#: 404.php:35 build/coachify_1.1.4/404.php:35
+msgid "GO TO HOMEPAGE"
+msgstr ""
+
+#: build/coachify_1.1.4/comments.php:57 comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/group/class-group-control.php:87
+#: inc/custom-controls/group/class-group-control.php:87
+msgid "Show Panel"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/range/class-range-control.php:59
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:44
+#: inc/custom-controls/range/class-range-control.php:59
+#: inc/custom-controls/spacing/class-spacing-control.php:44
+msgid "Desktop"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/range/class-range-control.php:60
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:45
+#: inc/custom-controls/range/class-range-control.php:60
+#: inc/custom-controls/spacing/class-spacing-control.php:45
+msgid "Tablet"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/range/class-range-control.php:61
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:46
+#: build/coachify_1.1.4/inc/extras.php:149
+#: inc/custom-controls/range/class-range-control.php:61
+#: inc/custom-controls/spacing/class-spacing-control.php:46 inc/extras.php:149
+msgid "Mobile"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/range/class-range-control.php:62
+#: inc/custom-controls/range/class-range-control.php:62
+msgid "Reset"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:37
+#: inc/custom-controls/spacing/class-spacing-control.php:37
+msgid "Link values"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:38
+#: inc/custom-controls/spacing/class-spacing-control.php:38
+msgid "Un-link values"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:40
+#: inc/custom-controls/spacing/class-spacing-control.php:40
+msgid "Top"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:41
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:144
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:100
+#: build/coachify_1.1.4/inc/customizer/sections/singlepage.php:60
+#: inc/custom-controls/spacing/class-spacing-control.php:41
+#: inc/customizer/sections/archive.php:144
+#: inc/customizer/sections/blogpage.php:100
+#: inc/customizer/sections/singlepage.php:60
+msgid "Right"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:42
+#: inc/custom-controls/spacing/class-spacing-control.php:42
+msgid "Bottom"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/spacing/class-spacing-control.php:43
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:142
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:98
+#: build/coachify_1.1.4/inc/customizer/sections/singlepage.php:58
+#: inc/custom-controls/spacing/class-spacing-control.php:43
+#: inc/customizer/sections/archive.php:142
+#: inc/customizer/sections/blogpage.php:98
+#: inc/customizer/sections/singlepage.php:58
+msgid "Left"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/typography/class-typography-control.php:35
+#: inc/custom-controls/typography/class-typography-control.php:35
+msgid "System fonts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/typography/class-typography-control.php:36
+#: inc/custom-controls/typography/class-typography-control.php:36
+msgid "Custom fonts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/typography/class-typography-control.php:37
+#: inc/custom-controls/typography/class-typography-control.php:37
+msgid "Google fonts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/typography/class-typography-control.php:40
+#: inc/custom-controls/typography/class-typography-control.php:40
+msgid "Font Family"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/typography/class-typography-control.php:41
+#: inc/custom-controls/typography/class-typography-control.php:41
+msgid "Font Weight"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/typography/class-typography-control.php:42
+#: inc/custom-controls/typography/class-typography-control.php:42
+msgid "Transform"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-controls/typography/class-typography-control.php:44
+#: inc/custom-controls/typography/class-typography-control.php:44
+msgid "Variants"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:46
+#: build/coachify_1.1.4/inc/custom-functions.php:131
+#: inc/custom-functions.php:46 inc/custom-functions.php:131
+msgid "Primary"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:154
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:28
+#: build/coachify_1.1.4/inc/elementor-compatibility.php:37
+#: inc/custom-functions.php:154 inc/customizer/sections/colors.php:28
+#: inc/elementor-compatibility.php:37
+msgid "Primary Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:160
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:49
+#: build/coachify_1.1.4/inc/elementor-compatibility.php:43
+#: inc/custom-functions.php:160 inc/customizer/sections/colors.php:49
+#: inc/elementor-compatibility.php:43
+msgid "Secondary Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:166
+#: inc/custom-functions.php:166
+msgid "Body Font Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:172
+#: build/coachify_1.1.4/inc/elementor-compatibility.php:55
+#: inc/custom-functions.php:172 inc/elementor-compatibility.php:55
+msgid "Heading Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:178
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:112
+#: inc/custom-functions.php:178 inc/customizer/sections/colors.php:112
+msgid "Primary Accent Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:184
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:133
+#: inc/custom-functions.php:184 inc/customizer/sections/colors.php:133
+msgid "Secondary Accent Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:190
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:154
+#: inc/custom-functions.php:190 inc/customizer/sections/colors.php:154
+msgid "Tertiary Accent Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:196
+#: inc/custom-functions.php:196
+msgid "Site Background Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:558
+#: inc/custom-functions.php:558
+msgid "Name"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:558
+#: inc/custom-functions.php:558
+msgid "Name*"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:560
+#: inc/custom-functions.php:560
+msgid "Email"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:560
+#: inc/custom-functions.php:560
+msgid "Email*"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:562
+#: inc/custom-functions.php:562
+msgid "Website"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:575
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:299
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:158
+#: inc/custom-functions.php:575 inc/customizer/sections/blogpage.php:299
+#: inc/customizer/sections/singlepost.php:158
+msgid "Comment"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:621
+#: inc/custom-functions.php:621
+msgid "Courses"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:626
+#: inc/custom-functions.php:626
+msgid "Browsing Category"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:634
+#: inc/custom-functions.php:634
+msgid "Browsing Tag"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:642
+#: inc/custom-functions.php:642
+msgid "Browsing Year"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:650
+#: inc/custom-functions.php:650
+msgid "Browsing Month"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:658
+#: inc/custom-functions.php:658
+msgid "Browsing Day"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:729
+#: inc/custom-functions.php:729
+msgid "Congratulations!"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:732
+#: inc/custom-functions.php:732
+#. translators: %1$s: Theme Name
+msgid ""
+"%1$s is now installed and ready to use. Click below to see theme "
+"documentation, plugins to install and other details to get started."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:733
+#: inc/custom-functions.php:733
+msgid "Go to the getting started."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:734
+#: inc/custom-functions.php:734
+msgid "Dismiss"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/customizer.php:112
+#: inc/customizer/customizer.php:112
+msgid "Successfully Flushed!"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/footer.php:15
+#: inc/customizer/footer.php:15
+msgid "Footer"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/footer.php:18
+#: inc/customizer/footer.php:18
+msgid "Customizer footer settings from here."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/general.php:17
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:35
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer.php:35
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:36
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:16
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:36
+#: inc/customizer/general.php:17
+#: inc/customizer/panels/footer/footer-widgets.php:35
+#: inc/customizer/panels/footer/footer.php:35
+#: inc/customizer/panels/general/button.php:36
+#: inc/customizer/panels/header/general-header.php:16
+#: inc/customizer/panels/header/header-button.php:36
+msgid "General"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/general.php:18
+#: inc/customizer/general.php:18
+msgid "Customize Container, Sidebar, Button and Scroll to Top."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/header.php:15
+#: inc/customizer/header.php:15
+msgid "Main Header"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/header.php:18
+#: inc/customizer/header.php:18
+msgid "Customizer header settings from here."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:16
+#: inc/customizer/panels/footer/footer-widgets.php:16
+msgid "Footer Widgets"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:42
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer.php:43
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:44
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:45
+#: inc/customizer/panels/footer/footer-widgets.php:42
+#: inc/customizer/panels/footer/footer.php:43
+#: inc/customizer/panels/general/button.php:44
+#: inc/customizer/panels/header/header-button.php:45
+msgid "Design"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:70
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:17
+#: inc/customizer/panels/footer/footer-widgets.php:70
+#: inc/customizer/sections/layout.php:17
+msgid "Layouts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:71
+#: inc/customizer/panels/footer/footer-widgets.php:71
+msgid "Choose the footer layouts for your site."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:75
+#: inc/customizer/panels/footer/footer-widgets.php:75
+msgid "Layout One"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:97
+#: inc/customizer/panels/footer/footer-widgets.php:97
+msgid "Layout Two"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:119
+#: inc/customizer/panels/footer/footer-widgets.php:119
+msgid "Layout Three"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:141
+#: inc/customizer/panels/footer/footer-widgets.php:141
+msgid "Layout Four"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:182
+#: inc/customizer/panels/footer/footer-widgets.php:182
+#. translators: %1$s: Link to Footer customizer setting
+msgid "%1$sClick here%2$s to add widget to the footer."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:221
+#: inc/customizer/panels/footer/footer-widgets.php:221
+msgid "Top Spacing"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:222
+#: inc/customizer/panels/footer/footer-widgets.php:222
+msgid "Add the spacing above the footer area."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:271
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer.php:93
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:530
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:609
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:267
+#: inc/customizer/panels/footer/footer-widgets.php:271
+#: inc/customizer/panels/footer/footer.php:93
+#: inc/customizer/panels/general/button.php:530
+#: inc/customizer/panels/general/button.php:609
+#: inc/customizer/panels/header/header-button.php:267
+msgid "Text Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:292
+#: inc/customizer/panels/footer/footer-widgets.php:292
+msgid "Widget Title Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer-widgets.php:313
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer.php:115
+#: inc/customizer/panels/footer/footer-widgets.php:313
+#: inc/customizer/panels/footer/footer.php:115
+msgid "Background Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer.php:16
+#: inc/customizer/panels/footer/footer.php:16
+msgid "Footer Copyright"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/footer/footer.php:67
+#: inc/customizer/panels/footer/footer.php:67
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:18
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:91
+#: inc/customizer/panels/general/button.php:18
+#: inc/customizer/panels/header/header-button.php:91
+msgid "Button"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:104
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:183
+#: inc/customizer/panels/general/button.php:104
+#: inc/customizer/panels/header/header-button.php:183
+msgid "Button Roundness"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:161
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:240
+#: inc/customizer/panels/general/button.php:161
+#: inc/customizer/panels/header/header-button.php:240
+msgid "Button Padding"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:192
+#: inc/customizer/panels/general/button.php:192
+msgid "Button Typography"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:295
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:141
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:457
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:777
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1097
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1419
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1739
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2059
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2376
+#: inc/customizer/panels/general/button.php:295
+#: inc/customizer/sections/appearance.php:141
+#: inc/customizer/sections/appearance.php:457
+#: inc/customizer/sections/appearance.php:777
+#: inc/customizer/sections/appearance.php:1097
+#: inc/customizer/sections/appearance.php:1419
+#: inc/customizer/sections/appearance.php:1739
+#: inc/customizer/sections/appearance.php:2059
+#: inc/customizer/sections/appearance.php:2376
+msgid "Size"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:362
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:207
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:525
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:845
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1165
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1487
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1807
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2127
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2442
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:333
+#: inc/customizer/panels/general/button.php:362
+#: inc/customizer/sections/appearance.php:207
+#: inc/customizer/sections/appearance.php:525
+#: inc/customizer/sections/appearance.php:845
+#: inc/customizer/sections/appearance.php:1165
+#: inc/customizer/sections/appearance.php:1487
+#: inc/customizer/sections/appearance.php:1807
+#: inc/customizer/sections/appearance.php:2127
+#: inc/customizer/sections/appearance.php:2442
+#: inc/customizer/sections/site.php:333
+msgid "Line Height"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:430
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:275
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:593
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:913
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1233
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1555
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1875
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2195
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2510
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:402
+#: inc/customizer/panels/general/button.php:430
+#: inc/customizer/sections/appearance.php:275
+#: inc/customizer/sections/appearance.php:593
+#: inc/customizer/sections/appearance.php:913
+#: inc/customizer/sections/appearance.php:1233
+#: inc/customizer/sections/appearance.php:1555
+#: inc/customizer/sections/appearance.php:1875
+#: inc/customizer/sections/appearance.php:2195
+#: inc/customizer/sections/appearance.php:2510
+#: inc/customizer/sections/site.php:402
+msgid "Letter Spacing"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:511
+#: inc/customizer/panels/general/button.php:511
+msgid "%1$sButton Initial State%2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:550
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:629
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:287
+#: inc/customizer/panels/general/button.php:550
+#: inc/customizer/panels/general/button.php:629
+#: inc/customizer/panels/header/header-button.php:287
+msgid "Background"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:570
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:649
+#: inc/customizer/panels/general/button.php:570
+#: inc/customizer/panels/general/button.php:649
+msgid "Border"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/button.php:590
+#: inc/customizer/panels/general/button.php:590
+msgid "%1$sButton Hover State%1$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/container.php:18
+#: inc/customizer/panels/general/container.php:18
+msgid "Container"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/container.php:56
+#: inc/customizer/panels/general/container.php:56
+msgid "Container Width"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/container.php:123
+#: inc/customizer/panels/general/container.php:123
+msgid "Fullwidth Centered Max-width"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/error.php:16
+#: inc/customizer/panels/general/error.php:16
+msgid "404 Page"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/error.php:35
+#: inc/customizer/panels/general/error.php:35
+msgid "404 Image"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/error.php:55
+#: inc/customizer/panels/general/error.php:55
+msgid "Show Posts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/error.php:74
+#: inc/customizer/panels/general/error.php:74
+msgid "Number of posts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/error.php:107
+#: inc/customizer/panels/general/error.php:107
+msgid "Posts per row"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/scroll-to-top.php:18
+#: inc/customizer/panels/general/scroll-to-top.php:18
+msgid "Scroll to Top"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/scroll-to-top.php:37
+#: inc/customizer/panels/general/scroll-to-top.php:37
+msgid "Show Scroll to Top"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/scroll-to-top.php:75
+#: inc/customizer/panels/general/scroll-to-top.php:75
+msgid "Icon Size"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/sidebar.php:18
+#: build/coachify_1.1.4/inc/widgets.php:13
+#: inc/customizer/panels/general/sidebar.php:18 inc/widgets.php:13
+msgid "Sidebar"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/sidebar.php:38
+#: inc/customizer/panels/general/sidebar.php:38
+msgid "Sidebar Width"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/sidebar.php:88
+#: inc/customizer/panels/general/sidebar.php:88
+msgid "Widget Spacing"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/sidebar.php:137
+#: inc/customizer/panels/general/sidebar.php:137
+msgid "Last Widget Sticky"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/general/sidebar.php:157
+#: inc/customizer/panels/general/sidebar.php:157
+#. translators: %1$s: Link to Sidebar customizer setting
+msgid "You can select the default sidebar layout from %1$s here. %2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:37
+#: inc/customizer/panels/header/general-header.php:37
+msgid "Header Width"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:39
+#: inc/customizer/panels/header/general-header.php:39
+msgid "Boxed"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:40
+#: inc/customizer/panels/header/general-header.php:40
+msgid "Fullwidth"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:41
+#: inc/customizer/panels/header/general-header.php:41
+msgid "Custom"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:60
+#: inc/customizer/panels/header/general-header.php:60
+msgid "Custom Header Width"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:94
+#: inc/customizer/panels/header/general-header.php:94
+msgid "Header Search"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:116
+#: inc/customizer/panels/header/general-header.php:116
+msgid "Show Cart"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:137
+#: inc/customizer/panels/header/general-header.php:137
+msgid "%1$sNavigation Menu Settings%2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:157
+#: inc/customizer/panels/header/general-header.php:157
+msgid "Items Spacing"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:191
+#: inc/customizer/panels/header/general-header.php:191
+msgid "Stretch Menu"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/general-header.php:211
+#: inc/customizer/panels/header/general-header.php:211
+msgid "Dropdown Width"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:17
+#: inc/customizer/panels/header/header-button.php:17
+msgid "Header Button"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:74
+#: inc/customizer/panels/header/header-button.php:74
+msgid "Show Button"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:113
+#: inc/customizer/panels/header/header-button.php:113
+msgid "Button Link "
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:134
+#: inc/customizer/panels/header/header-button.php:134
+msgid "Open in new tab"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:135
+#: inc/customizer/panels/header/header-button.php:135
+msgid "Enable to open the link in a new tab."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-button.php:307
+#: inc/customizer/panels/header/header-button.php:307
+msgid "Border Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-contact.php:15
+#: inc/customizer/panels/header/header-contact.php:15
+msgid "Contact Settings"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-contact.php:36
+#: inc/customizer/panels/header/header-contact.php:36
+msgid "Phone Number"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/header-contact.php:60
+#: inc/customizer/panels/header/header-contact.php:60
+msgid "Email Address"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:17
+#: inc/customizer/panels/header/social-media.php:17
+msgid "Social Media Settings"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:38
+#: inc/customizer/panels/header/social-media.php:38
+msgid "Show Social Media"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:57
+#: inc/customizer/panels/header/social-media.php:57
+msgid "Open in a new tab"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:77
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:18
+#: inc/customizer/panels/header/social-media.php:77
+#: inc/customizer/sections/social-network.php:18
+msgid "Social Media"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:79
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:55
+#: inc/customizer/panels/header/social-media.php:79
+#: inc/customizer/sections/social-network.php:55
+msgid "Facebook"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:80
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:74
+#: inc/customizer/panels/header/social-media.php:80
+#: inc/customizer/sections/social-network.php:74
+msgid "Twitter"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:81
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:92
+#: inc/customizer/panels/header/social-media.php:81
+#: inc/customizer/sections/social-network.php:92
+msgid "Instagram"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:82
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:110
+#: inc/customizer/panels/header/social-media.php:82
+#: inc/customizer/sections/social-network.php:110
+msgid "Pinterest"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:83
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:128
+#: inc/customizer/panels/header/social-media.php:83
+#: inc/customizer/sections/social-network.php:128
+msgid "YouTube"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:84
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:146
+#: inc/customizer/panels/header/social-media.php:84
+#: inc/customizer/sections/social-network.php:146
+msgid "TikTok"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:85
+#: inc/customizer/panels/header/social-media.php:85
+msgid "LinkedIn"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:86
+#: inc/customizer/panels/header/social-media.php:86
+msgid "WhatsApp"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:87
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:200
+#: inc/customizer/panels/header/social-media.php:87
+#: inc/customizer/sections/social-network.php:200
+msgid "Viber"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:88
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:218
+#: inc/customizer/panels/header/social-media.php:88
+#: inc/customizer/sections/social-network.php:218
+msgid "Telegram"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:89
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:236
+#: inc/customizer/panels/header/social-media.php:89
+#: inc/customizer/sections/social-network.php:236
+msgid "OK"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:90
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:254
+#: inc/customizer/panels/header/social-media.php:90
+#: inc/customizer/sections/social-network.php:254
+msgid "VK"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/panels/header/social-media.php:112
+#: inc/customizer/panels/header/social-media.php:112
+#. translators: %1$s: Link to Social Media customizer setting
+msgid "You can add links to your social media profiles %1$s here. %2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:17
+#: inc/customizer/sections/appearance.php:17
+msgid "Typography"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:38
+#: inc/customizer/sections/appearance.php:38
+msgid "Base Font"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:354
+#: inc/customizer/sections/appearance.php:354
+msgid "H1 Heading"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:674
+#: inc/customizer/sections/appearance.php:674
+msgid "H2 Heading"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:994
+#: inc/customizer/sections/appearance.php:994
+msgid "H3 Heading"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1316
+#: inc/customizer/sections/appearance.php:1316
+msgid "H4 Heading"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1636
+#: inc/customizer/sections/appearance.php:1636
+msgid "H5 Heading"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:1956
+#: inc/customizer/sections/appearance.php:1956
+msgid "H6 Heading"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2273
+#: inc/customizer/sections/appearance.php:2273
+msgid "Accent Font"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2585
+#: inc/customizer/sections/appearance.php:2585
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2586
+#: inc/customizer/sections/appearance.php:2586
+msgid ""
+"This will load Google fonts from your server to speed up your site and make "
+"it GDPR compliant."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2607
+#: inc/customizer/sections/appearance.php:2607
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2608
+#: inc/customizer/sections/appearance.php:2608
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2625
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2631
+#: inc/customizer/sections/appearance.php:2625
+#: inc/customizer/sections/appearance.php:2631
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/appearance.php:2626
+#: inc/customizer/sections/appearance.php:2626
+msgid "Click the button to reset the local fonts cache."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:15
+#: inc/customizer/sections/archive.php:15
+msgid "Archive"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:34
+#: inc/customizer/sections/archive.php:34
+msgid "Header Background Image"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:59
+#: build/coachify_1.1.4/inc/customizer/sections/singlepage.php:35
+#: inc/customizer/sections/archive.php:59
+#: inc/customizer/sections/singlepage.php:35
+msgid "Page Title"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:79
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:75
+#: inc/customizer/sections/archive.php:79
+#: inc/customizer/sections/blogpage.php:75
+msgid "Show Description"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:99
+#: inc/customizer/sections/archive.php:99
+msgid "Hide Archive Prefix"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:119
+#: inc/customizer/sections/archive.php:119
+msgid "Show Counts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:140
+#: build/coachify_1.1.4/inc/customizer/sections/singlepage.php:56
+#: inc/customizer/sections/archive.php:140
+#: inc/customizer/sections/singlepage.php:56
+msgid "Title Alignment"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/archive.php:143
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:99
+#: build/coachify_1.1.4/inc/customizer/sections/singlepage.php:59
+#: inc/customizer/sections/archive.php:143
+#: inc/customizer/sections/blogpage.php:99
+#: inc/customizer/sections/singlepage.php:59
+msgid "Center"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:15
+#: inc/customizer/sections/blogpage.php:15
+msgid "Blog Page"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:35
+#: inc/customizer/sections/blogpage.php:35
+msgid "%1$sPage Title%2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:55
+#: inc/customizer/sections/blogpage.php:55
+msgid "Show Title"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:96
+#: inc/customizer/sections/blogpage.php:96
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:121
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:35
+#: inc/customizer/sections/blogpage.php:121
+#: inc/customizer/sections/singlepost.php:35
+msgid "%1$sImage Settings%2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:141
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:75
+#: inc/customizer/sections/blogpage.php:141
+#: inc/customizer/sections/singlepost.php:75
+msgid "Crop Featured Image"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:142
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:76
+#: inc/customizer/sections/blogpage.php:142
+#: inc/customizer/sections/singlepost.php:76
+msgid ""
+"This setting crops the featured image to recommended size. If set to false, "
+"it displays the image exactly as uploaded."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:190
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:125
+#: inc/customizer/sections/blogpage.php:190
+#: inc/customizer/sections/singlepost.php:125
+msgid "Border Radius"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:218
+#: inc/customizer/sections/blogpage.php:218
+msgid "%1$sPosts Settings%2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:238
+#: inc/customizer/sections/blogpage.php:238
+msgid "Enable Blog Excerpt"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:240
+#: inc/customizer/sections/blogpage.php:240
+msgid "Excerpt"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:241
+#: inc/customizer/sections/blogpage.php:241
+msgid "Full Content"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:262
+#: inc/customizer/sections/blogpage.php:262
+msgid "Excerpt Length"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:263
+#: inc/customizer/sections/blogpage.php:263
+msgid "Automatically generated excerpt length (in words)."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:295
+#: inc/customizer/sections/blogpage.php:295
+msgid "Meta Order"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:297
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:156
+#: inc/customizer/sections/blogpage.php:297
+#: inc/customizer/sections/singlepost.php:156
+msgid "Author"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:298
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:157
+#: inc/customizer/sections/blogpage.php:298
+#: inc/customizer/sections/singlepost.php:157
+msgid "Date"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:300
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:159
+#: inc/customizer/sections/blogpage.php:300
+#: inc/customizer/sections/singlepost.php:159
+msgid "Reading Time"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/blogpage.php:321
+#: inc/customizer/sections/blogpage.php:321
+msgid "Read More Label"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:70
+#: inc/customizer/sections/colors.php:70
+msgid "Font"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:91
+#: inc/customizer/sections/colors.php:91
+msgid "Heading"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:175
+#: inc/customizer/sections/colors.php:175
+msgid "Site Background"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/colors.php:196
+#: inc/customizer/sections/colors.php:196
+#. translators: %1$s: Link to Button Color customizer setting
+msgid "You can change button colors from %1$s here. %2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/info.php:93
+#: inc/customizer/sections/info.php:93
+msgid "VIEW PRO VERSION"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/instagram.php:16
+#: inc/customizer/sections/instagram.php:16
+msgid "Instagram Settings"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/instagram.php:37
+#: inc/customizer/sections/instagram.php:37
+msgid "Instagram Section"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/instagram.php:38
+#: inc/customizer/sections/instagram.php:38
+msgid "Enable to show Instagram Section throughout your site."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/instagram.php:55
+#: inc/customizer/sections/instagram.php:55
+msgid "Shortcode"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/instagram.php:57
+#: inc/customizer/sections/instagram.php:57
+msgid "Add shortcode for your instagram profile below:"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/instagram.php:76
+#: inc/customizer/sections/instagram.php:76
+msgid "Instagram on Homepage"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/instagram.php:77
+#: inc/customizer/sections/instagram.php:77
+msgid "Show Instagram Section only on Homepage"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/instagram.php:100
+#: inc/customizer/sections/instagram.php:100
+#. translators: %1$s: Link to BlossomThemes Social Feed plugin admin page
+msgid "You can change the setting BlossomThemes Social Feed %1$sfrom here%2$s."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:20
+#: inc/customizer/sections/layout.php:20
+msgid "Change different Blog page & General Sidebar layout from here."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:28
+#: inc/customizer/sections/layout.php:28
+msgid "Sidebar Layouts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:48
+#: inc/customizer/sections/layout.php:48
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:49
+#: inc/customizer/sections/layout.php:49
+msgid ""
+"This is the general sidebar layout for pages. You can override the sidebar "
+"layout for individual page in respective page."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:53
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:93
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:133
+#: inc/customizer/sections/layout.php:53 inc/customizer/sections/layout.php:93
+#: inc/customizer/sections/layout.php:133
+msgid "Full Width"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:57
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:97
+#: inc/customizer/sections/layout.php:57 inc/customizer/sections/layout.php:97
+msgid "Fullwidth Centered"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:61
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:101
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:137
+#: inc/customizer/sections/layout.php:61 inc/customizer/sections/layout.php:101
+#: inc/customizer/sections/layout.php:137
+msgid "Left Sidebar"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:65
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:105
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:141
+#: inc/customizer/sections/layout.php:65 inc/customizer/sections/layout.php:105
+#: inc/customizer/sections/layout.php:141
+msgid "Right Sidebar"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:88
+#: inc/customizer/sections/layout.php:88
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:89
+#: inc/customizer/sections/layout.php:89
+msgid ""
+"This is the general sidebar layout for posts. You can override the sidebar "
+"layout for individual post in respective post."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:128
+#: inc/customizer/sections/layout.php:128
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:129
+#: inc/customizer/sections/layout.php:129
+msgid "This is the general sidebar layout for whole site."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/layout.php:164
+#: inc/customizer/sections/layout.php:164
+#. translators: %1$s: Link to Sidebar customizer setting
+msgid "%1$sClick here%2$s to configure Sidebar settings."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:17
+#: inc/customizer/sections/seo.php:17
+msgid "SEO Settings"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:37
+#: inc/customizer/sections/seo.php:37
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:57
+#: inc/customizer/sections/seo.php:57
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:83
+#: inc/customizer/sections/seo.php:83
+msgid "Separator"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:88
+#: inc/customizer/sections/seo.php:88
+msgid "Type 1"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:92
+#: inc/customizer/sections/seo.php:92
+msgid "Type 2"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:96
+#: inc/customizer/sections/seo.php:96
+msgid "Type 3"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:120
+#: inc/customizer/sections/seo.php:120
+msgid "Show Last Updated Post Date"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/seo.php:121
+#: inc/customizer/sections/seo.php:121
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepage.php:15
+#: build/coachify_1.1.4/inc/template-functions.php:632
+#: build/coachify_1.1.4/inc/template-functions.php:654
+#: inc/customizer/sections/singlepage.php:15 inc/template-functions.php:632
+#: inc/template-functions.php:654
+msgid "Page"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepage.php:81
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:55
+#: inc/customizer/sections/singlepage.php:81
+#: inc/customizer/sections/singlepost.php:55
+msgid "Show Featured Image"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepage.php:100
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:489
+#: inc/customizer/sections/singlepage.php:100
+#: inc/customizer/sections/singlepost.php:489
+msgid "Show Comments"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:15
+#: inc/customizer/sections/singlepost.php:15
+msgid "Single Post"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:154
+#: inc/customizer/sections/singlepost.php:154
+msgid "Post Meta Settings"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:178
+#: inc/customizer/sections/singlepost.php:178
+msgid "Read Words Per Minute"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:180
+#: inc/customizer/sections/singlepost.php:180
+msgid "Blog Posts Content Words Reading Speed Per Minute."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:213
+#: inc/customizer/sections/singlepost.php:213
+msgid "Show Category"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:233
+#: inc/customizer/sections/singlepost.php:233
+msgid "Show Post Tags"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:253
+#: inc/customizer/sections/singlepost.php:253
+msgid "Show Pagination"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:273
+#: inc/customizer/sections/singlepost.php:273
+msgid "Show Author Box"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:293
+#: inc/customizer/sections/singlepost.php:293
+msgid "Author Section Title"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:318
+#: inc/customizer/sections/singlepost.php:318
+msgid "%1$sRelated Post Settings%2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:338
+#: inc/customizer/sections/singlepost.php:338
+msgid "Show Related Posts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:358
+#: inc/customizer/sections/singlepost.php:358
+msgid "Related Posts Section Title"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:411
+#: inc/customizer/sections/singlepost.php:411
+msgid "Image Border Radius"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:438
+#: inc/customizer/sections/singlepost.php:438
+msgid "Number of Posts"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:470
+#: inc/customizer/sections/singlepost.php:470
+msgid "%1$sComment Settings%2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:509
+#: inc/customizer/sections/singlepost.php:509
+msgid "Comment Form"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:511
+#: inc/customizer/sections/singlepost.php:511
+msgid "Above"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:512
+#: inc/customizer/sections/singlepost.php:512
+msgid "Below"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:514
+#: inc/customizer/sections/singlepost.php:514
+msgid "Move the comment form above or below the comments."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:535
+#: inc/customizer/sections/singlepost.php:535
+msgid "Comment Location"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:537
+#: inc/customizer/sections/singlepost.php:537
+msgid "Below Post"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/singlepost.php:538
+#: inc/customizer/sections/singlepost.php:538
+msgid "At End"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:50
+#: inc/customizer/sections/site.php:50
+msgid "Hide Site Title"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:71
+#: inc/customizer/sections/site.php:71
+msgid "Hide Site Tagline"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:111
+#: inc/customizer/sections/site.php:111
+msgid "Logo Width"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:161
+#: inc/customizer/sections/site.php:161
+msgid "Site Title Typography"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:264
+#: inc/customizer/sections/site.php:264
+msgid "Font Size"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:481
+#: inc/customizer/sections/site.php:481
+msgid "Site Title Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/site.php:503
+#: inc/customizer/sections/site.php:503
+msgid "Site Tagline Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:37
+#: inc/customizer/sections/social-network.php:37
+msgid ""
+"Add the links to your social media accounts and display them across your "
+"site."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:164
+#: inc/customizer/sections/social-network.php:164
+msgid "Linkedin"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/social-network.php:182
+#: inc/customizer/sections/social-network.php:182
+msgid "Whatsapp"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/title.php:16
+#: inc/customizer/sections/title.php:16
+msgid "Core"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/title.php:27
+#: inc/customizer/sections/title.php:27
+msgid "General Settings"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/title.php:38
+#: inc/customizer/sections/title.php:38
+msgid "Posts and Pages"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/customizer/sections/title.php:50
+#: inc/customizer/sections/title.php:50
+msgid "Additional Settings"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/defaults.php:402 inc/defaults.php:402
+msgid "Home"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/defaults.php:414 inc/defaults.php:414
+msgid "Read More"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/defaults.php:424 inc/defaults.php:424
+msgid "About Author"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/defaults.php:426 inc/defaults.php:426
+msgid "You may also like..."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/elementor-compatibility.php:49
+#: inc/elementor-compatibility.php:49
+msgid "Font Color"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/elementor-compatibility.php:61
+#: inc/elementor-compatibility.php:61
+msgid "Primary Accent"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/elementor-compatibility.php:67
+#: inc/elementor-compatibility.php:67
+msgid "Secondary Accent"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/elementor-compatibility.php:73
+#: inc/elementor-compatibility.php:73
+msgid "Tertiary Accent"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:70
+#: build/coachify_1.1.4/inc/extras.php:141 inc/extras.php:70 inc/extras.php:141
+msgid "Open"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:78
+#: build/coachify_1.1.4/inc/extras.php:152 inc/extras.php:78 inc/extras.php:152
+msgid "Close"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:107 inc/extras.php:107
+msgid "Click here to add a menu"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:203 inc/extras.php:203
+msgid "Open Search Form"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:211 inc/extras.php:211
+msgid "search form close"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:322 inc/extras.php:322
+msgid "Updated on "
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:375 inc/extras.php:375
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:437 inc/extras.php:437
+msgid " min read"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:471 inc/extras.php:471
+#. translators: 1: list of tags.
+msgid "%1$sTags:%2$s %3$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:498 inc/extras.php:498
+msgid "Recommended For You"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:551 inc/extras.php:551
+msgid "GO TO BLOG"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:660 inc/extras.php:660
+#. translators: %s: search query keyword
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:663
+#: build/coachify_1.1.4/inc/extras.php:665
+#: build/coachify_1.1.4/inc/extras.php:667
+#: build/coachify_1.1.4/inc/extras.php:670
+#: build/coachify_1.1.4/inc/extras.php:672
+#: build/coachify_1.1.4/inc/extras.php:675
+#: build/coachify_1.1.4/inc/partials.php:127 inc/extras.php:663
+#: inc/extras.php:665 inc/extras.php:667 inc/extras.php:670 inc/extras.php:672
+#: inc/extras.php:675 inc/partials.php:127
+msgid "Y"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:665
+#: build/coachify_1.1.4/inc/extras.php:667
+#: build/coachify_1.1.4/inc/extras.php:672 inc/extras.php:665
+#: inc/extras.php:667 inc/extras.php:672
+msgid "m"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:665
+#: build/coachify_1.1.4/inc/extras.php:672 inc/extras.php:665
+#: inc/extras.php:672
+msgid "F"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:667 inc/extras.php:667
+msgid "d"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:752 inc/extras.php:752
+msgid "Page %s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:781 inc/extras.php:781
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:784 inc/extras.php:784
+#. translators: %s: Page Number
+msgid " (Page %s)"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:852 inc/extras.php:852
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:857 inc/extras.php:857
+#. translators: %s: Link to comment author
+msgid ""
+"<b class=\"fn\" itemprop=\"creator\" itemscope "
+"itemtype=\"https://schema.org/Person\">%s</b> <span "
+"class=\"says\">says:</span>"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:859 inc/extras.php:859
+msgid "Posted on"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:865 inc/extras.php:865
+#. translators: %1$s: Comment date                                     %2$s:
+#. Comment time
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:900 inc/extras.php:900
+#. translators: %1$s: Number of visible posts             %2$s: Total number of
+#. available posts
+msgid "Showing %1$s of %2$s Results"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:1243 inc/extras.php:1243
+msgid "Get Coachify Pro"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/CoachifyDashboardPlugins.php:31
+#: inc/getting-started/CoachifyDashboardPlugins.php:31
+msgid "Elementor"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/CoachifyDashboardPlugins.php:32
+#: inc/getting-started/CoachifyDashboardPlugins.php:32
+msgid ""
+"Elementor is one of the most advanced frontend drag & drop page builders to "
+"help you create pixel-perfect websites in less time."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/CoachifyDashboardPlugins.php:37
+#: inc/getting-started/CoachifyDashboardPlugins.php:37
+msgid "WooCommerce"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/CoachifyDashboardPlugins.php:38
+#: inc/getting-started/CoachifyDashboardPlugins.php:38
+msgid ""
+"WooCommerce is the world's most popular eCommerce plugin that helps you to "
+"create an online store easily."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/CoachifyDashboardPlugins.php:43
+#: inc/getting-started/CoachifyDashboardPlugins.php:43
+msgid "Mega Elements - Addons for Elementor"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/CoachifyDashboardPlugins.php:44
+#: inc/getting-started/CoachifyDashboardPlugins.php:44
+msgid ""
+"Addons for Elementor: Mega Elements is a powerful and advanced Elementor "
+"add-ons plugin that offers several Elementor widgets to build a beautiful "
+"website."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/CoachifyDashboardPlugins.php:49
+#: inc/getting-started/CoachifyDashboardPlugins.php:49
+msgid "Rank Math SEO"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/CoachifyDashboardPlugins.php:50
+#: inc/getting-started/CoachifyDashboardPlugins.php:50
+msgid ""
+"Rank Math SEO is one of the most popular and powerful SEO plugins with tons "
+"of features to make your site SEO optimized and rank higher on search "
+"engines."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/ajax-functions.php:96
+#: inc/getting-started/ajax-functions.php:96
+msgid "Theme"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/ajax-functions.php:227
+#: inc/getting-started/ajax-functions.php:227
+msgid "Security Error, Please reload the page."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/ajax-functions.php:230
+#: inc/getting-started/ajax-functions.php:230
+msgid "Security Error, Need higher Permissions to install plugin."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/ajax-functions.php:288
+#: inc/getting-started/ajax-functions.php:288
+msgid "Error, plugin could not be installed, please install manually."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Coachify"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:58
+#: inc/getting-started/getting-started.php:58
+msgid "Browse Coachify Starter Templates"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:62
+#: inc/getting-started/getting-started.php:62
+msgid "Install Coachify Starter Templates"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:65
+#: inc/getting-started/getting-started.php:65
+msgid "Activate Coachify Starter Templates"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:73
+#: inc/getting-started/getting-started.php:73
+msgid "Activating"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:74
+#: inc/getting-started/getting-started.php:74
+msgid "Deactivating"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:75
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2876
+#: inc/getting-started/getting-started.php:75
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:76
+#: inc/getting-started/getting-started.php:76
+msgid "Deactivate"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:77
+#: inc/getting-started/getting-started.php:77
+msgid "Settings"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/getting-started/getting-started.php:78
+#: inc/getting-started/getting-started.php:78
+msgid "Browse Starter Templates"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/partials.php:126 inc/partials.php:126
+msgid "&copy; Copyright "
+msgstr ""
+
+#: build/coachify_1.1.4/inc/partials.php:129 inc/partials.php:129
+msgid "All Rights Reserved. "
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:42
+#: inc/template-functions.php:42
+msgid "Skip to content (Press Enter)"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:192
+#: inc/template-functions.php:192
+#. translators: %1$s: Opening heading tag                                      
+#. %2$s%3$s: post author in span tag                         
+#. %4$s: Closing heading tag
+msgid "%1$s %2$s%3$s%4$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:214
+#: inc/template-functions.php:214
+msgid "Search"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:461
+#: inc/template-functions.php:461
+msgid "Pages:"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:520
+#: inc/template-functions.php:520
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:562
+#: inc/template-functions.php:562
+msgid "Post Navigation"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:577
+#: inc/template-functions.php:577
+msgid "Previous Article"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:601
+#: inc/template-functions.php:601
+msgid "Next Article"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:630
+#: build/coachify_1.1.4/inc/template-functions.php:652
+#: inc/template-functions.php:630 inc/template-functions.php:652
+msgid "Previous"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:631
+#: build/coachify_1.1.4/inc/template-functions.php:653
+#: inc/template-functions.php:631 inc/template-functions.php:653
+msgid "Next"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:856
+#: inc/template-functions.php:856
+msgid " Coachify | Developed By "
+msgstr ""
+
+#: build/coachify_1.1.4/inc/template-functions.php:859
+#: inc/template-functions.php:859
+#. translators: %s: Link to WordPress
+msgid " Powered by %s. "
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:340
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:341
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:343
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:345
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:346
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:348
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+#. translators: 1: plugin name(s).
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:354
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+#. translators: 1: plugin name(s).
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:360
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+#. translators: 1: plugin name(s).
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:366
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+#. translators: 1: plugin name(s).
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:372
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+#. translators: 1: plugin name(s).
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:378
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+#. translators: 1: plugin name(s).
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:383
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:393
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:398
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:399
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:400
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3311
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:401
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3103
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:403
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:405
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:407
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:408
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:409
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:410
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:616
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:617
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:735
+#: inc/tgmpa/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:1052
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:1052
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2112
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2421
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2424
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2440
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2443
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2446
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2463
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2467
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2469
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2475
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2478
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2481
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2540
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2544
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2548
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2638
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2646
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2658
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2681
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2695
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2696
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2697
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2701
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2702
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2751
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2756
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2762
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2834
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2867
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2873
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2907
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2909
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2950
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2952
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3059
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3085
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3310
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3655
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3658
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3660
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3664
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3666
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3667
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3669
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3672
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3674
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3675
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3677
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3682
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3682
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/recommended-plugins.php:51
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "Smash Balloon Social Photo Feed"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/recommended-plugins.php:56
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/recommended-plugins.php:61
+#: inc/tgmpa/recommended-plugins.php:61
+msgid "Demo Importer Plus"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:15 inc/widgets.php:15
+msgid "Default Sidebar"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:18 inc/widgets.php:18
+msgid "Footer One"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:20 inc/widgets.php:20
+msgid "Add footer one widgets here."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:23 inc/widgets.php:23
+msgid "Footer Two"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:25 inc/widgets.php:25
+msgid "Add footer two widgets here."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:28 inc/widgets.php:28
+msgid "Footer Three"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:30 inc/widgets.php:30
+msgid "Add footer three widgets here."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:33 inc/widgets.php:33
+msgid "Footer Four"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/widgets.php:35 inc/widgets.php:35
+msgid "Add footer four widgets here."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/woocommerce-functions.php:42
+#: inc/woocommerce-functions.php:42
+msgid "Shop Sidebar"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/woocommerce-functions.php:44
+#: inc/woocommerce-functions.php:44
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: build/coachify_1.1.4/inc/woocommerce-functions.php:115
+#: build/coachify_1.1.4/inc/woocommerce-functions.php:138
+#: inc/woocommerce-functions.php:115 inc/woocommerce-functions.php:138
+msgid "View your shopping cart"
+msgstr ""
+
+#: build/coachify_1.1.4/template-parts/content-none.php:14
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: build/coachify_1.1.4/template-parts/content-none.php:25
+#: template-parts/content-none.php:25
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: build/coachify_1.1.4/template-parts/content-none.php:39
+#: template-parts/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: build/coachify_1.1.4/template-parts/content-none.php:43
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpcoachify.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Coachify is a lead-generating coaching WordPress theme built for coaches, "
+"consultants, therapists, entrepreneurs, mentors, speakers, nutritionists "
+"and personal development experts. It is core web vital optimized, "
+"SEO-optimized, and schema-friendly to help you rank your website better. "
+"Built with performance in mind, this theme is lightning-fast and "
+"lightweight. It works flawlessly with popular page builders (Elementor and "
+"Gutenberg) to offer flexibility and make editing easier. Packed with tons "
+"of customization options such as color options, typography control, sidebar "
+"layouts and much more, this theme helps to create a highly engaging and "
+"interactive website that captivates your audience. Other notable features "
+"include WooCommerce compatibility, LMS compatibility, mobile-responsive "
+"design, translation-ready, RTL ready and much more. Check the starter "
+"templates here - https://wpcoachify.com/starter-templates/. Looking to "
+"build a site to showcase your expertise, build a strong online presence, "
+"and grow your business? Look no further. Try Coachify Theme today!"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpcoachify.com/about/"
+msgstr ""
+
+#: build/coachify_1.1.4/comments.php:36 comments.php:36
+#. translators: 1: comment count number.
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:639
+#: inc/custom-functions.php:639
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:647
+#: inc/custom-functions.php:647
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/custom-functions.php:655
+#: inc/custom-functions.php:655
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:355 inc/extras.php:355
+#. translators: %s: post author.
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/extras.php:904 inc/extras.php:904
+#. translators: 1: found posts.
+msgctxt "found posts"
+msgid "%s Result"
+msgid_plural "%s Results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:3099
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2490
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2536
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/coachify_1.1.4/inc/tgmpa/class-tgm-plugin-activation.php:2630
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

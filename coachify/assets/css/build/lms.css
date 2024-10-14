@@ -1,0 +1,62 @@
+/*===============================
+Lms compatibility: learn dash
+==============================*/
+.ld-login-modal-register #ld-user-register p.submit {
+  color: unset;
+  background: unset;
+  padding: unset;
+  border-radius: unset;
+  border: unset;
+}
+
+.learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span a {
+  font-weight: 700;
+  color: var(--g-heading-color);
+}
+.learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span a:hover {
+  color: var(--g-primary-color);
+}
+
+.learndash-wrapper .ld-content-actions .ld-content-action .ld-course-step-back {
+  margin-top: 15px;
+}
+
+.tutor-form-icon-reverse ~ .tutor-form-control {
+  padding-block: 8px;
+  margin-bottom: 0;
+}
+
+/*===============================
+Lms compatibility: tutor lms
+==============================*/
+:root {
+  --tutor-color-primary: var(--g-primary-color);
+  --tutor-color-primary-rgb: var(--g-primary-color-rgb);
+  --tutor-color-primary-hover: var(--g-secondary-color);
+  --tutor-color-primary-hover-rgb: var(--g-secondary-color-rgb);
+  --tutor-body-color: var(--g-font-color);
+}
+
+.tutor-wrap.course-archive-page {
+  margin-top: clamp(40px, 5vw, 60px);
+}
+
+.tutor-btn:not(.tutor-is-outline).tutor-btn-primary {
+  border-color: var(--tutor-color-primary);
+}
+
+.tutor-instructor-apply-button .tutor-bg-primary {
+  color: var(--tutor-body-color);
+}
+
+.tutor-disabled-wrapper .tutor-disabled-content-wrapper .tutor-btn {
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+.tutor-meta-value,
+.tutor-meta a {
+  color: var(--g-font-color);
+}
+
+/*# sourceMappingURL=lms.css.map */

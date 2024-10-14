@@ -1,0 +1,64 @@
+1.1.3: 2024-08-09
+- New Feature: Added Odnoklassniki (OK) and VKontakte (VK) to the social media list.
+- Update: Google Fonts Library has been updated.
+
+1.1.2: 2024-07-08
+- Fix: String translation issue in Group Custom Control has been fixed. 
+- Update: Theme support for default block spacing and dimensions has been added.
+- Update: Google Fonts Library has been updated.
+
+1.1.1: 2024-05-07
+- Fix: Console warning seen on classic editor screen has been fixed.
+- Fix: Design issue seen with blocks alignwide layout has been fixed.
+- Fix: Design refinements have been done in the list elements.
+
+1.1.0: 2024-03-26
+- Fix: Warning seen in console in Elementor canvas pages has been fixed.
+- Fix: Minor fix has been done in API fetch process for demo import.
+- Fix: Color inherit issue has been fixed for default WordPress blocks.
+- Fix: Issue with custom header width has been solved.
+- Fix: Design issue in footer submenu has been solved.
+- Update: Google Fonts Library has been updated.
+
+1.0.9: 2024-02-05
+- Fix: Issue with ajax requests has been fixed.
+
+1.0.8: 2024-02-01
+- Update: Admin notice check for nonces.
+
+1.0.7: 2023-12-06
+- Update: Google Fonts Library has been updated.
+- Fix: Issue in the header email caused by extra quotation mark has been resolved.
+
+1.0.6: 2023-11-01
+- Update: Google Fonts Library has been updated.
+- Update: Recommended Smash Balloon Social Photo Feed plugin for instagram profile.
+
+1.0.5: 2023-09-15
+- Fix: Issue with sidebar set for individual posts/pages has been solved.
+- Fix: Minor design refinements have been done for elementor pages.
+- Fix: Color issue with active submenu has been fixed.
+- Update: Compatibility for Elementor Grid Container has been added.
+- Update: Twitter icon has been changed to X icon.
+- Update: Google Fonts Library has been updated.
+
+1.0.4: 2023-07-20
+- New Feature: Coachify is now compatible with Tutor LMS and LearnDash plugins.
+- Fix: Button Accessibility issue shown on PageSpeed has been resolved.
+- Update: Google Fonts Library has been updated.
+
+1.0.3: 2023-06-19
+- Update: Google Fonts Library has been updated.
+- Fix: Issue of all starter sites not being listed in the dashboard has been resolved.
+
+1.0.2: 2023-06-09
+- Update: Google Fonts Library has been updated.
+- Update: Minor design refinements have been done.
+- New Feature: Added animation styling utility classes which can be used on Elementor templates.
+
+1.0.1: 2023-04-21
+- Update: Editor page button styling is now compatible with customizer button settings.
+- Fix: Added unique class name for Customizer Tabs Control.
+
+1.0.0: 2023-04-03
+- New Feature: Initial Release.
