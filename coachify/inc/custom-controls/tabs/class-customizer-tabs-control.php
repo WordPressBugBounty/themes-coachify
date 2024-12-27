@@ -128,7 +128,7 @@ class Coachify_Customizer_Tabs_Control extends WP_Customize_Control {
 	/**
 	 * Loads the scripts and hooks our custom styles in.
 	 *
-	 * @since  1.1.45
+	 * @since  1.0.0
 	 * @access public
 	 * @return void
 	 */
