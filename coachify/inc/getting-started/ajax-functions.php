@@ -107,6 +107,9 @@ class CoachifyAjaxFunctions {
 	 * @return void
 	 */
 	public function get_plugins_status() {
+		if ( ! check_ajax_referer( 'chfy-ajax-verification', 'security', false ) ) {
+			wp_send_json_error( __( 'Security Error, Please reload the page.', 'coachify' ) );
+		}
 
 		$this->check_capability( 'edit_plugins' );
 		$result = [];
@@ -145,6 +148,9 @@ class CoachifyAjaxFunctions {
 	 * @return void
 	 */
 	public function get_plugin_download() {
+		if ( ! check_ajax_referer( 'chfy-ajax-verification', 'security', false ) ) {
+			wp_send_json_error( __( 'Security Error, Please reload the page.', 'coachify' ) );
+		}
 
 		$this->check_capability( 'install_plugins' );
 		$plugin = $this->get_plugin_from_request();
@@ -166,6 +172,9 @@ class CoachifyAjaxFunctions {
 	 * @return void
 	 */
 	public function get_plugin_activate() {
+		if ( ! check_ajax_referer( 'chfy-ajax-verification', 'security', false ) ) {
+			wp_send_json_error( __( 'Security Error, Please reload the page.', 'coachify' ) );
+		}
 
 		$this->check_capability( 'edit_plugins' );
 		$plugin = $this->get_plugin_from_request();
@@ -186,6 +195,9 @@ class CoachifyAjaxFunctions {
 	 * @return void
 	 */
 	public function get_plugin_deactivate() {
+		if ( ! check_ajax_referer( 'chfy-ajax-verification', 'security', false ) ) {
+			wp_send_json_error( __( 'Security Error, Please reload the page.', 'coachify' ) );
+		}
 
 		$this->check_capability( 'edit_plugins' );
 		$plugin = $this->get_plugin_from_request();
@@ -206,6 +218,10 @@ class CoachifyAjaxFunctions {
 	 * @return void
 	 */
 	public function get_plugin_delete() {
+		if ( ! check_ajax_referer( 'chfy-ajax-verification', 'security', false ) ) {
+			wp_send_json_error( __( 'Security Error, Please reload the page.', 'coachify' ) );
+		}
+
 		$this->check_capability( 'delete_plugins' );
 		$plugin = $this->get_plugin_from_request();
 

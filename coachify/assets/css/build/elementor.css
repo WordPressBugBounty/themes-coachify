@@ -6,7 +6,7 @@
     padding: 0;
 }
 
-.elementor-widget-container .elementor-button-wrapper .elementor-button {
+.elementor-widget-button .elementor-button {
     font-family: var(--btn-font-family);
     font-size: var(--btn-font-size);
     letter-spacing: var(--btn-font-spacing);
@@ -20,7 +20,7 @@
     border: 1px solid var(--btn-border-initial-color);
 }
 
-.elementor-widget-container .elementor-button-wrapper .elementor-button:is(:hover, :focus) {
+.elementor-widget-button .elementor-button:is(:hover, :focus) {
     color: var(--btn-text-hover-color);
     border-color: var(--btn-border-hover-color);
     background: var(--btn-bg-hover-color);

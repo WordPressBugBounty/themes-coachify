@@ -4,10 +4,10 @@ Theme URI: https://wpcoachify.com/
 Author: Coachify
 Author URI: https://wpcoachify.com/about/
 Description: Coachify is a lead-generating coaching WordPress theme built for coaches, consultants, therapists, entrepreneurs, mentors, speakers, nutritionists and personal development experts. It is core web vital optimized, SEO-optimized, and schema-friendly to help you rank your website better. Built with performance in mind, this theme is lightning-fast and lightweight. It works flawlessly with popular page builders (Elementor and Gutenberg) to offer flexibility and make editing easier. Packed with tons of customization options such as color options, typography control, sidebar layouts and much more, this theme helps to create a highly engaging and interactive website that captivates your audience. Other notable features include WooCommerce compatibility, LMS compatibility, mobile-responsive design, translation-ready, RTL ready and much more. Check the starter templates here - https://wpcoachify.com/starter-templates/. Looking to build a site to showcase your expertise, build a strong online presence, and grow your business? Look no further. Try Coachify Theme today!
-Version: 1.1.5
+Version: 1.1.6
 Requires at least: 6.2
 Requires PHP: 7.3
-Tested up to: 6.7
+Tested up to: 6.9
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: coachify
@@ -1493,13 +1493,15 @@ body:not(.author) .page-header-img-wrap .page-header {
   display: flex;
   align-items: center;
   flex-direction: column;
-  grid-gap: 24px;
 }
 @media screen and (min-width: 768px) {
   .page-header-img-wrap .coachify-author-box .author-archive-section {
     flex-direction: row;
     align-items: flex-start;
   }
+}
+.page-header-img-wrap .coachify-author-box .author-archive-section {
+  grid-gap: 24px;
 }
 .page-header-img-wrap .coachify-author-box .author-archive-section .img-holder {
   max-width: clamp(100px, 25%, 160px);

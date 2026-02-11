@@ -3,8 +3,8 @@
 Contributors: wpcoachify
 Requires at least: 6.2
 Requires PHP: 7.3
-Tested up to: 6.7
-Stable tag: 1.1.5
+Tested up to: 6.9
+Stable tag: 1.1.6
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: blog, one-column, two-columns, right-sidebar, left-sidebar, footer-widgets, custom-background, custom-header, custom-menu, custom-logo, featured-images, threaded-comments, full-width-template, rtl-language-support, translation-ready, theme-options, e-commerce, portfolio
@@ -75,6 +75,10 @@ License URI	: https://stocksnap.io/license,
 Source 		: https://stocksnap.io/photo/littleblackbook-pink-PF3QF43DKH
 
 == Changelog ==
+
+    1.1.6 - February 11, 2026
+    * Fix: Broken access control vulnerability has been resolved.
+    * Fix: Cross Site Request Forgery (CSRF) has been resolved.
 
     1.1.5 - December 27, 2024
     * Fix: Design issue in the customizer screen has been fixed.

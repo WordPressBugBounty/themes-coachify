@@ -51,8 +51,10 @@ jQuery(document).ready(function($){
         $.ajax ({
             url     : coachify_cdata.ajax_url,  
             type    : 'post',
-            data    : 'action=flush_local_google_fonts',    
-            nonce   : coachify_cdata.nonce,
+            data    : {
+                action: 'flush_local_google_fonts',
+                nonce: coachify_cdata.nonce
+            },
             success : function(results){
                 //results can be appended in needed
                 $( '.flush-it' ).val(coachify_cdata.flushit);
